@@ -3,7 +3,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Choroning/26Spring_Capstone-Design)
 ![Languages](https://img.shields.io/github/languages/top/Choroning/26Spring_Capstone-Design)
 
-이 레포지토리는 3학년 캡스톤디자인 프로젝트의 산출물을 체계적으로 정리하고 보관하며, 팀 기반 소프트웨어 엔지니어링 프로젝트와 전체 개발 생명주기 문서를 포함합니다.
+이 레포지토리는 생성형 AI 및 거대언어 모형에 관한 기업 연계 개인 프로젝트의 산출물(과제수행계획서, 포스터, 기술 보고서, 소스 코드 구현)을 체계적으로 정리하고 보관합니다.
 
 *작성자: 박철원 (고려대학교(세종), 컴퓨터소프트웨어학과) - 2026년 기준 3학년*
 <br><br>
@@ -26,11 +26,13 @@
 
 - 프로젝트 제안서 및 설계 문서
 - 소스 코드 및 구현물
-- 기술 보고서 및 발표 자료
+- 포스터 및 기술 보고서
 
-> **🤖 AI 에이전트 활용**
-> 본 과목은 AI 에이전트 사용을 권장합니다.
-> 수업 전반에 걸쳐 [Claude Code](https://claude.ai/download)와 [Gemini CLI](https://github.com/google-gemini/gemini-cli)를 코딩 어시스턴트로 활용하였습니다.
+본 프로젝트는 서민석 교수 지도하에 Google DeepMind와 연계하여 진행하는 개인 프로젝트입니다 (기업 담당자: 방서진 엔지니어).
+
+**프로젝트 주제:** 차세대 생성형 AI 및 거대언어 모형의 응용
+
+**키워드:** `거대언어모델` `강화학습` `생성형AI` `딥러닝` `Generative Agents` `Gemini` `PaLM2` `AlphaFold3`
 
 <br><a name="course-information"></a>
 ## 📚 강의 정보
@@ -52,15 +54,12 @@
 ## ✅ 사전 요구사항
 
 - CS 핵심 과목 이수 (자료구조, 알고리즘, 객체지향프로그래밍 등)
-- 소프트웨어 개발 생명주기에 대한 이해
-- 버전 관리(Git) 및 팀 협업에 대한 숙련
 
 - **💻 개발 환경**
 
 | 도구 | 회사 |  운영체제  | 비고 |
 |:-----|:-------:|:----:|:------|
-|Visual Studio Code|Microsoft|macOS|    |
-|Xcode|Apple Inc.|macOS|    |
+|TBA|—|—|프로젝트 요구사항에 따라 추후 결정|
 
 <br><a name="repository-structure"></a>
 ## 🗂 레포지토리 구조

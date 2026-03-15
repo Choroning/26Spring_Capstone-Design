@@ -3,7 +3,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Choroning/26Spring_Capstone-Design)
 ![Languages](https://img.shields.io/github/languages/top/Choroning/26Spring_Capstone-Design)
 
-This repository organizes and stores the capstone design project for the junior year, featuring a team-based software engineering project with full development lifecycle documentation.
+This repository organizes and stores the capstone design project deliverables, including a project proposal, poster, technical report, and source code implementation for an industry-linked solo project on generative AI and large language models.
 
 *Author: Cheolwon Park (Korea University Sejong, CSE) – Year 3 (Junior) as of 2026*
 <br><br>
@@ -26,11 +26,13 @@ This repository contains materials and deliverables developed for a university-l
 
 - Project proposal and design documents
 - Source code and implementation
-- Technical reports and presentations
+- Poster and technical report
 
-> **🤖 AI-Assisted Development**
-> This course encourages the use of AI agents.
-> [Claude Code](https://claude.ai/download) and [Gemini CLI](https://github.com/google-gemini/gemini-cli) were used as coding assistants throughout the course.
+This is a solo, industry-linked project supervised by Prof. Minseok Seo, in collaboration with Google DeepMind (Corporate Mentor: Seojin Bang, Engineer).
+
+**Project Topic:** Applications of Next-Generation Generative AI and Large Language Models
+
+**Keywords:** `Large Language Models` `Reinforcement Learning` `Generative AI` `Deep Learning` `Generative Agents` `Gemini` `PaLM2` `AlphaFold3`
 
 <br><a name="course-information"></a>
 ## 📚 Course Information
@@ -52,15 +54,12 @@ This repository contains materials and deliverables developed for a university-l
 ## ✅ Prerequisites
 
 - Completion of core CS courses (Data Structures, Algorithms, OOP, etc.)
-- Understanding of software development lifecycle
-- Familiarity with version control (Git) and team collaboration
 
 - **💻 Development Environment**
 
 | Tool | Company |  OS  | Notes |
 |:-----|:-------:|:----:|:------|
-|Visual Studio Code|Microsoft|macOS|    |
-|Xcode|Apple Inc.|macOS|    |
+|TBA|—|—|to be determined based on project requirements|
 
 <br><a name="repository-structure"></a>
 ## 🗂 Repository Structure
