@@ -1,7 +1,7 @@
 # [Spring 2026] Capstone Design I
 
-![Last Commit](https://img.shields.io/github/last-commit/Choroning/26Spring_Capstone-Design)
-![Languages](https://img.shields.io/github/languages/top/Choroning/26Spring_Capstone-Design)
+![Last Commit](https://img.shields.io/github/last-commit/Choroning/26Spring_Capstone-Design-I)
+![Languages](https://img.shields.io/github/languages/top/Choroning/26Spring_Capstone-Design-I)
 
 This repository organizes and stores the capstone design project deliverables, including a project proposal, poster, technical report, and source code implementation for an industry-linked solo project on generative AI and large language models.
 
@@ -65,7 +65,7 @@ This is a solo, industry-linked project supervised by Prof. Minseok Seo, in coll
 ## 🗂 Repository Structure
 
 ```plaintext
-26Spring_Capstone-Design
+26Spring_Capstone-Design-I
 ├── LICENSE
 ├── README.ko.md
 └── README.md

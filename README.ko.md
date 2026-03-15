@@ -1,7 +1,7 @@
 # [2026학년도 봄학기] 캡스톤디자인 I
 
-![Last Commit](https://img.shields.io/github/last-commit/Choroning/26Spring_Capstone-Design)
-![Languages](https://img.shields.io/github/languages/top/Choroning/26Spring_Capstone-Design)
+![Last Commit](https://img.shields.io/github/last-commit/Choroning/26Spring_Capstone-Design-I)
+![Languages](https://img.shields.io/github/languages/top/Choroning/26Spring_Capstone-Design-I)
 
 이 레포지토리는 생성형 AI 및 거대언어 모형에 관한 기업 연계 개인 프로젝트의 산출물(과제수행계획서, 포스터, 기술 보고서, 소스 코드 구현)을 체계적으로 정리하고 보관합니다.
 
@@ -65,7 +65,7 @@
 ## 🗂 레포지토리 구조
 
 ```plaintext
-26Spring_Capstone-Design
+26Spring_Capstone-Design-I
 ├── LICENSE
 ├── README.ko.md
 └── README.md
